@@ -410,7 +410,7 @@ footer{
     width: 70%;
 }
 
-.social-media i{
+.social-media a{
     font-size: 20px;
     display: inline-block;
     color: #adb6c7;
@@ -427,7 +427,7 @@ footer{
 
 }
 
-.social-media i:hover{
+.social-media a:hover{
     color: #fff;
     background-color: #0E3094;
     border-color: #0E3094;
