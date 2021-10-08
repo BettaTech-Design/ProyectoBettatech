@@ -5,7 +5,7 @@ const createHeader = () => {
     <nav>
         <section class="contenedor nav">
             <div class="logo">
-                <img src="img/png/tecnología.png" alt="BettaTech">
+                <img src="img/png/tecnologia.png" alt="BettaTech">
             </div>
             <div class="enlaces-header">
                 <a href="#inicio">Inicio</a>
