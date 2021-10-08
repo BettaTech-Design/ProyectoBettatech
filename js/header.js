@@ -22,8 +22,8 @@ const createHeader = () => {
         <div class="questions contenedor" id="inicio">
             <section class="contenido-header">
                 <section class="textos-header">
-                    <h1>Que me dice Flachaso</h1>
-                    <p>Papa ahora si papa !sorpredido ! </p>
+                    <h1>Our creativity is your success</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, similique rerum.</p>
                     <a href="https://www.google.com" target="_bank">Learn more</a>
                 </section>
                     <img src="img/svg/1.svg" alt="">
