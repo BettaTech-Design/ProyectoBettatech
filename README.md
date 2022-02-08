@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dennnis Chaves</h1>
+<h1 align="center">Hi 👋, I'm Dennis Chaves</h1>
 <h3 align="center">A passionate frontend developer from CostaRica</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP, MySql**
